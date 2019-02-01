@@ -36,6 +36,7 @@ class GoodCalc extends Calculator{
 
 public class AbsMain {
 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		

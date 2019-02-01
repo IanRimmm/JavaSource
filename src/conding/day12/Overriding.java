@@ -3,7 +3,7 @@ package conding.day12;
 public class Overriding {
 	public static void main(String[] args) {
 		Professor a = new Professor();
-		a.setPhone("010-0101-0101");//Professor의 getPhone() 호출
+		a.setPhone("010-0101-0101");//Professor의 getPhone() 호출(오버라이딩된 메소드 호출)
 		System.out.println(a.getPhone());
 		
 		Person p = a;	//업캐스팅
